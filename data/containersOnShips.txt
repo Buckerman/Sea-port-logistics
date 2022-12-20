@@ -1,0 +1,3 @@
+typ|id|id nadawcy|tara|waga netto|waga brutto|certyfikat|unikalne|czas dodania|id statku
+H|0|1|5.0|15.0|20.0|cae|4|0|0
+S|1|0|10.0|30.0|40.0|cae|0|0

@@ -1,0 +1,7 @@
+id|nazwa|port macierzysty|lokalizacja poczatkowa|destynacja|pojemnosc|ladownosc|ilosc ciezkich|ilosc wybuchowych|ilosc toksycznych
+0|Warszawianka|Gdansk|Polska|USA|7|1500.0|2|2|2
+1|Titanic|Londyn|Chiny|Kanada|8|3492.0|4|1|2
+2|Prime|Gdansk|Polska|Szwecja|10|5000.0|5|2|2
+3|Optimus|Hanoi|Wietnam|Hawaje|20|2100.0|5|3|2
+4|Olimpus|Teneryfy|Hiszpania|Norwegia|11|432000.0|1|1|4
+5|Nimfa|Szwecja|Nibylandia|Norwegia|15|24423.0|3|2|1

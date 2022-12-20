@@ -1,0 +1,2 @@
+czas|capacity
+2505|1

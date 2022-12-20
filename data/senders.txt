@@ -1,0 +1,3 @@
+id|imie|nazwisko|adres|pesel|data urodzin
+0|duc|nguyen|polska|02303110031|2002-10-31
+1|dawid|nguyen||00310310332|2000-11-03
